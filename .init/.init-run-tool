@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/commercial-energy-consumption-analytics--anomaly-alerts-262-1128/BackendAPIServiceFastAPIDjango"
+}
